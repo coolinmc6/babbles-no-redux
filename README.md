@@ -9,4 +9,13 @@
 1. Plan ENTIRE app, complete, commit, deploy to GitHub => create an ENTIRELY NEW project
 if you want to keep making changes
 
+## Setup
+- I have not added any major packages (Redux, Axios, ReactRouter, etc.) besides Bootstrap or Sass.
+To start developing:
+
+```sh
+npm start
+npm run watch-css
+```
+
 
