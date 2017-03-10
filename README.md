@@ -18,4 +18,12 @@ npm start
 npm run watch-css
 ```
 
+## Mapping it out
+- Create Babble component
+- Babble Feed
+
+- Toggling a like: find the babble and toggle the like
+- find the babble
+- change the true/false liked flag
+- update the list of babble
 
